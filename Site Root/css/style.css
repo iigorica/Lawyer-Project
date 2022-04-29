@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 3, 2019, 12:19:01 PM
+    Author     : frontend
+*/
+
+.practice-position .content{
+    top: 30px;
+}
+
+img{
+    max-width: 100%;
+}
+.example{
+
+    display: inline-block;
+}
+
+.caption{
+    bottom: 0;
+    right: 0;
+}
+
+.navbar-light .navbar-brand{
+    max-width: 60px;
+}
+
+.navbar-toggler span{
+    width: 30px;
+    height: 3px;
+    background: blue;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.navbar-toggler span:last-of-type{
+    margin-bottom: 0;
+}
+
+.navbar-light .nav-item .nav-link{
+    color: blue;
+}
